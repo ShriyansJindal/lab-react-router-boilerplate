@@ -2,8 +2,8 @@
 import './App.css'
 import { Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home';
-import About from './Pages/about';
-import Contact from './Pages/contact';
+import About from './Pages/About';
+import Contact from './Pages/Contact';
 
 function App() {
 
