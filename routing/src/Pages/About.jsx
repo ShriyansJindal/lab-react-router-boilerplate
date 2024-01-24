@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Components/navbar'
-const about = () => {
+const About = () => {
   return (
     <div>
         <Navbar/>
@@ -9,4 +9,4 @@ const about = () => {
   )
 }
 
-export default about
+export default About
